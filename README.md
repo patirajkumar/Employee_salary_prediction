@@ -29,20 +29,6 @@ ROC AUC Score: ~0.93
 ---------
 ---------
 
-## Input Features
-Feature	Description
-Age	Integer (between 18 and 65)
-Education Level	Numeric (1 to 16)
-Hours per Week	Weekly working hours
-Marital Status	Categorical (e.g., Married, Divorced)
-Gender	Male or Female
-Workclass	Type of employer
-Occupation	Job role
-Capital Gain	Investment gain (numeric)
-Capital Loss	Investment loss (numeric)
-
------------
-
 ## Built With
 Python
 
