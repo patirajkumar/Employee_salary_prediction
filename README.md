@@ -22,7 +22,7 @@ Algorithm used: XGBoost Classifier
 
 Model Selection: Chosen after comparing Logistic Regression, Random Forest, and Gradient Boosting
 
-Accuracy: ~88%
+Accuracy: ~86.7%
 
 ROC AUC Score: ~0.93
 
